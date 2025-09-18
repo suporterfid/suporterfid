@@ -12,7 +12,7 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on RFID Solutions at Impinj
+- 🔭 Working on RFID Solutions
 - 🌱 Learning AI integration with IoT systems
 - 👯 Looking to collaborate on RAIN RFID projects
 - 💬 Ask me about RFID technology, IoT, Python, Javascript and C#
