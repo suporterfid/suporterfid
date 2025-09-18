@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 there!!
 
-<!--
-**suporterfid/suporterfid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,python,js,html,css,git,github,docker,mongodb,aws&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![suporterfid's GitHub stats](https://github-readme-stats.vercel.app/api?username=suporterfid&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suporterfid&layout=compact&theme=dark)
+
+## 🎯 Current Focus
+
+- 🔭 Working on RFID Solutions at Impinj
+- 🌱 Learning AI integration with IoT systems
+- 👯 Looking to collaborate on RAIN RFID projects
+- 💬 Ask me about RFID technology, IoT, Python, Javascript and C#
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrevs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporterfid@gmail.com)
+
+## 📈 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/suporterfid/count.svg)
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/suporterfid/suporterfid/output/snake.svg" alt="Snake animation" />
+</div>
